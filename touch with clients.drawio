@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T14:54:42.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="_zNlhbT77lGrgqmJsObk" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T15:00:47.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="-jtCM7wi_ry0BRE6zW_V" version="14.6.6" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="4150" dy="1228" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1100" pageHeight="1700" background="#ffffff" math="0" shadow="0">
       <root>
@@ -46,6 +46,18 @@
         </mxCell>
         <mxCell id="WkDrt5I4f7olcOTcWhyi-68" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Отправляем письмо маркетологу &lt;/span&gt;&lt;span&gt;с текстом:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;(нужно солгасовать)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-291" y="260" width="357" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WkDrt5I4f7olcOTcWhyi-71" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Здесь будут &lt;br&gt;варианты писем( касаний с клиентом ) в зависимости от того, насколько удачно проходит тест&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=17;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="162" y="776" width="1207" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="WkDrt5I4f7olcOTcWhyi-73" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=15;fontStyle=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="1332" width="20" height="351" as="geometry" />
+        </mxCell>
+        <mxCell id="WkDrt5I4f7olcOTcWhyi-74" value="3-ая точка касания" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-620" y="1481.5" width="261" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="WkDrt5I4f7olcOTcWhyi-75" value="&lt;span style=&quot;font-size: 23px&quot;&gt;Все ветки сливаются в одну и на основании этого (!!!!!!_))&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=17;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="151" y="1343" width="1207" height="279" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
