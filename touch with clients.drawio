@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T18:40:28.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="EPdkcMC5VD89sLCuiSDs" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-05T12:53:30.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="jsCo9nqPCOQ6T2k6xlOU" version="14.6.10" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="19100" dy="10725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1100" pageHeight="1700" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="29010" dy="17580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1100" pageHeight="1700" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -551,20 +551,41 @@
         <mxCell id="1DOYW4nuOeu-RiWTVkEz-221" value="Нет" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=40;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-3085" y="4416" width="78" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="hKUjb1kkYrbYKW6tYKoX-2" value="Промежуточные результаты теста" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="hKUjb1kkYrbYKW6tYKoX-2" value="Промежуточные результаты теста" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-2912" y="4910" width="332" height="122.5" as="geometry" />
         </mxCell>
-        <mxCell id="hKUjb1kkYrbYKW6tYKoX-3" value="Письмо с предложением &#xa;+&#xa;Промежуточные результаты теста" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="hKUjb1kkYrbYKW6tYKoX-3" value="Письмо с предложением &#xa;+&#xa;Промежуточные результаты теста" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-4324" y="4895" width="367" height="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="hKUjb1kkYrbYKW6tYKoX-4" value="Рассказать клиенту , что&#xa; тест проходит отлично &#xa;Заявок столько-то " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="hKUjb1kkYrbYKW6tYKoX-4" value="Рассказать клиенту , что&#xa; тест проходит отлично &#xa;Заявок столько-то " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-4953" y="4391" width="367" height="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="hKUjb1kkYrbYKW6tYKoX-6" value="Есть ли смысл вообще что-то писать, если сайт ни о чём" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="hKUjb1kkYrbYKW6tYKoX-6" value="Есть ли смысл вообще что-то писать, если сайт ни о чём" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1215" y="3664" width="332" height="122.5" as="geometry" />
         </mxCell>
-        <mxCell id="hKUjb1kkYrbYKW6tYKoX-7" value="Что сделали аналитики, чтобы улучшить конверсию? &#xa;Донести до клиента, что в любом случае форм на сайте не заброшены и работа ведётся" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="hKUjb1kkYrbYKW6tYKoX-7" value="Что сделали аналитики, чтобы улучшить конверсию? &#xa;Донести до клиента, что в любом случае форм на сайте не заброшены и работа ведётся" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-2402" y="3691" width="372" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ3WS_0lphFBlz3uWyal-1" value="3-ая точка касания" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-6683" y="6788" width="993" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ3WS_0lphFBlz3uWyal-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=80;fontStyle=1;strokeWidth=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5403" y="5411" width="146" height="2857" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ3WS_0lphFBlz3uWyal-4" value="Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5439" y="7064" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ3WS_0lphFBlz3uWyal-5" value="На основании проведённого теста" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=44;" vertex="1" parent="1">
+          <mxGeometry x="-6561.5" y="6972" width="711" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ3WS_0lphFBlz3uWyal-6" value="&lt;font style=&quot;font-size: 55px&quot; color=&quot;#cc0066&quot;&gt;В зависимости от того, как проходит тест?&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=49;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-5055.5" y="2322" width="1175" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ3WS_0lphFBlz3uWyal-7" value="&lt;font style=&quot;font-size: 55px&quot; color=&quot;#cc0066&quot;&gt;В зависимости от того, кто это?&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=49;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-4926" y="1141" width="880" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ3WS_0lphFBlz3uWyal-8" value="&lt;font style=&quot;font-size: 55px&quot; color=&quot;#cc0066&quot;&gt;В зависимости от того, как прошёл тест?&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- независимо от того, как прошёл тест,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;отчёт направляется во время разговора&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;с клиентом( чтобы презентовать его,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;т.к. в отчете будет минимум информации).&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- нельзя допустить, чтобы&amp;nbsp;&lt;/span&gt;&lt;span&gt;с момента&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;окончания теста( предоставления отчёта&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;отделу продаж ) прошло больше суток&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=49;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-5188" y="5454" width="1172" height="534" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
